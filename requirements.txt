@@ -1,0 +1,9 @@
+# Dependencies used by the notebook; original run versions were not captured.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+ucimlrepo
+jupyterlab
+ipykernel

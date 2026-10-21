@@ -1,0 +1,7 @@
+features removed,n_features,train_RMSE,val_RMSE,val_MAE,val_R2
+none (reference),13,52.577,71.889,46.972,0.463
+Month,11,58.958,76.072,50.496,0.398
+Hour,11,53.771,73.057,47.671,0.445
+Month + Hour,9,61.915,79.518,53.097,0.342
+Temp / dew point / humidity,10,68.382,85.461,59.103,0.241
+Wind (log_Iws + cbwd),11,54.707,73.733,48.142,0.435

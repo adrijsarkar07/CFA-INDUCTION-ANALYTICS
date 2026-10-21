@@ -1,0 +1,5 @@
+model,MAE,MSE,RMSE,R2,val_RMSE,val_R2,train_R2,selected
+Random Forest (selected),45.266,4448.241,66.695,0.491,71.889,0.463,0.653,YES (lowest validation RMSE)
+Linear Regression,49.511,5075.071,71.24,0.42,73.43,0.439,0.427,
+Decision Tree (depth 8),50.077,5395.474,73.454,0.383,76.833,0.386,0.504,
+Mean baseline,68.893,8747.145,93.526,-0.0,98.142,-0.002,0.0,

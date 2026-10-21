@@ -1,0 +1,13 @@
+model,split,MAE,MSE,RMSE,R2
+Mean baseline,train,67.726,7965.107,89.247,0.0
+Mean baseline,validation,70.923,9631.834,98.142,-0.002
+Mean baseline,test,68.893,8747.145,93.526,-0.0
+Linear Regression,train,47.986,4566.759,67.578,0.427
+Linear Regression,validation,49.941,5391.951,73.43,0.439
+Linear Regression,test,49.511,5075.071,71.24,0.42
+Decision Tree (depth 8),train,42.764,3951.541,62.861,0.504
+Decision Tree (depth 8),validation,50.895,5903.359,76.833,0.386
+Decision Tree (depth 8),test,50.077,5395.474,73.454,0.383
+Random Forest (selected),train,35.419,2764.374,52.577,0.653
+Random Forest (selected),validation,46.972,5168.022,71.889,0.463
+Random Forest (selected),test,45.266,4448.241,66.695,0.491
